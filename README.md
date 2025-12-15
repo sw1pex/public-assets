@@ -30,10 +30,23 @@ https://cdn.jsdelivr.net/gh/your-org/public-assets/project-name/email/headers/we
 
 Assets are organized **by project first**, then by usage or category.
 
-public-assets/ ├── project-name/ │ ├── email/ │ │ ├── headers/ │ │ ├──
-footers/ │ │ └── banners/ │ ├── marketing/ │ │ ├── campaigns/ │ │ └──
-socials/ │ ├── branding/ │ │ ├── logos/ │ │ └── guidelines/ │ └── ui/ │
-├── icons/ │ └── illustrations/ ├── another-project/ │ └── ...
+public-assets/
+├── project-name/
+│   ├── email/
+│   │   ├── headers/
+│   │   ├── footers/
+│   │   └── banners/
+│   ├── marketing/
+│   │   ├── campaigns/
+│   │   └── socials/
+│   ├── branding/
+│   │   ├── logos/
+│   │   └── guidelines/
+│   └── ui/
+│       ├── icons/
+│       └── illustrations/
+├── another-project/
+│   └── ...
 
 ------------------------------------------------------------------------
 
